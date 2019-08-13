@@ -1,2 +1,2 @@
 # Algorithms-challenges 
-Question and answer's that I have solved in Codewars, HackerRank, leetcode etc
+Problem and solution that I have solved in Codewars, HackerRank, leetcode etc
